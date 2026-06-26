@@ -19,7 +19,7 @@ An AI-powered Personal Finance Assistant that helps users manage income, expense
 
 ### Home
 
-![Home](assets/home.png)
+![Home](assets/home.jpg)
 
 ### Analytics
 
