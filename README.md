@@ -23,15 +23,15 @@ An AI-powered Personal Finance Assistant that helps users manage income, expense
 
 ### Analytics
 
-![Analytics](assets/analytics.png)
+![Analytics](assets/analytics.jpg)
 
 ### AI Advice
 
-![AI Advice](assets/ai-advice.png)
+![AI Advice](assets/ai-advice.jpg)
 
 ### Savings Goal
 
-![Savings Goal](assets/savings-goal.png)
+![Savings Goal](assets/savings-goal.jpg)
 
 ## ✨ Features
 
