@@ -1,17 +1,45 @@
+# 💰 SmartFinance AI
 
-# Run and deploy your AI Studio app
+An AI-powered Personal Finance Assistant that helps users manage income, expenses, savings goals, and receive intelligent budgeting recommendations.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/fc8a47ad-be46-4671-9509-169e66397e62
+🔗 https://personal-finance-assistant-524395434699.europe-west2.run.app
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+- 📊 Income Tracking
+- 💸 Expense Tracking
+- 🤖 AI Budget Recommendations
+- 🎯 Savings Goal Tracking
+- 📈 Expense Analysis Dashboard
+- 📱 Responsive Design
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛠️ Tech Stack
+
+- Google AI Studio
+- HTML
+- CSS
+- JavaScript
+- Google Cloud Run
+- GitHub
+
+---
+
+## 🚀 Future Improvements
+
+- User Authentication
+- Cloud Database
+- Expense History
+- PDF Reports
+- Dark Mode
+
+---
+
+## 👨‍💻 Author
+
+Rahul Anil Kumar
